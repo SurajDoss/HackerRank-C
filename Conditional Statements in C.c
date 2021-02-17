@@ -3,7 +3,7 @@
 
 
 int main(){
-    static const char *strings[] = {"one","two", "three", "four", "five", "six", "seven",                                    "eight", "nine"};
+    static const char *strings[] = {"one","two", "three", "four", "five", "six", "seven", "eight", "nine"};
     int num = 0;
     
     if(scanf("%d", &num)<1){
